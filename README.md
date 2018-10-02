@@ -101,7 +101,7 @@ Camera stream inference :
   ![Alt text](/src/tv.png?raw=true "Optional Title")
 
 
-# Acknowledgement
+# Acknowledgement #
 The author would like to thank the developers of Intel Movidius NCS, YOLONCS and gst-rpicamsrc.
 
 
